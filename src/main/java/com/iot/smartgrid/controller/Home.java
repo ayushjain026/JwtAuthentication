@@ -9,7 +9,7 @@ public class Home {
     public String welcome()
     {
         String text = "Hello Developers ";
-        text+="this page is not allowed";
+        text+="You are Pro Developer";
         return text;
     }
 
